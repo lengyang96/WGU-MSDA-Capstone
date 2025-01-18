@@ -13,7 +13,19 @@ D205: Data Acquisiton
 This course builds the students's proficiency in Structured Query Language (SQL) and provided an introduction to relational databases. Students gain concrete skills in data transference and database manipulation. The course consisted of a single practical assignment whereby the student imported an external data file into an existing database using PostgresSQL and pgAdmin.
 
 | Course  | Description  |  Projects |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|---|---|---|
+| D204: The Data Analytics Journey  |   |   |  
+| D205: Data Acquisition  |   |   |   
+| D206: Data Cleaning  |   |   | 
+| D207: Exploratory Data Analysis  |   |   | 
+| D208: Predictive Modeling  |   |   | 
+| D209: Data Mining I  |   |   | 
+| D210: Representation & Reporting  |   |   | 
+| D211: Advanced Data Acquisition  |   |   | 
+| D212: Data Mining II  |   |   | 
+| D213: Advanced Data Analysis  |   |   | 
+| D214: MS Data Analytics Capstone  |   |   | 
+|   |   |   | 
+|   |   |   | 
+|   |   |   | 
+|   |   |   | 
