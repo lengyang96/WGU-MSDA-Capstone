@@ -12,7 +12,7 @@ D205: Data Acquisiton
 
 This course builds the students's proficiency in Structured Query Language (SQL) and provided an introduction to relational databases. Students gain concrete skills in data transference and database manipulation. The course consisted of a single practical assignment whereby the student imported an external data file into an existing database using PostgresSQL and pgAdmin.
 
-|   |   |   |   |   |
+| Course  | Description  |  Projects |   |   |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
